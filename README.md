@@ -18,6 +18,16 @@ e estilizar com o CSS, alinhar os elementos com flexbox.
 - [HTML5](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Como criar e executar o DSTasty localmente
+
+1. Clone o código fonte
+
+   ```bash
+    git clone git@github.com:wellingtonrsdev/dsmeta-html-css.git
+   ```
+2. Importe o projeto para dentro do Vscode, certifique-se de instalar a extensão Live Server para renderizar localmente no seu navegador.
+
+
 ## Autor
 
    <div align="center">
